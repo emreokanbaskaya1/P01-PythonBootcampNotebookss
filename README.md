@@ -1,94 +1,76 @@
 # 📘 P01 - Python Bootcamp Notebooks
 
-This repository contains the first section of my Python learning journey, where I systematically studied the core concepts of Python programming through hands-on coding exercises, quizzes, and mini-projects. The materials covered here lay a strong foundation for future work in data science, machine learning, and AI development.
+This repository contains the first major phase of my Python learning journey, organized through a structured series of Jupyter Notebooks. It includes both core programming fundamentals and more advanced topics such as NumPy, Pandas, Matplotlib, and error handling.
 
-All notebooks are structured to reinforce both theoretical knowledge and practical skills, making this repository a comprehensive starting point for anyone aiming to master Python from the ground up.
-
----
-
-## 🧠 What I Learned
-
-### ✅ Python Fundamentals
-- **Variables and Data Types**: Including `int`, `float`, `str`, `bool`, and dynamic typing principles in Python.
-- **Type Casting**: Converting between different data types using built-in functions like `int()`, `str()`, `float()`, etc.
-- **Comments and Readability**: Writing clean, understandable code using inline and block comments.
-
-### ✅ Mathematical and Logical Operations
-- **Arithmetic Operators**: Addition, subtraction, multiplication, division, exponentiation, floor division, and modulus.
-- **Assignment Operators**: Including `=`, `+=`, `-=`, `*=`, and more.
-- **Comparison & Logical Operators**: `==`, `!=`, `>`, `<`, `>=`, `<=`, as well as `and`, `or`, `not` logic structures.
-
-### ✅ Conditional Statements
-- Mastery of `if`, `elif`, and `else` to create decision trees within programs.
-- Use of nested conditionals and complex logic chains.
-- Real-world applications like simple decision-making scripts.
-
-### ✅ Loops and Iteration
-- **`for` and `while` loops**: Executing blocks of code repeatedly based on a condition or sequence.
-- **Loop Control Statements**: Usage of `break`, `continue`, and `pass` for flow control.
-- **Looping Through Data Structures**: Iterating over lists, tuples, strings, and ranges.
-
-### ✅ Functions
-- Writing reusable blocks of code with both required and default parameters.
-- **Return Statements**: Capturing function outputs for downstream logic.
-- Understanding **scope**: Local vs. global variables.
-- **Lambda Functions**: Creating anonymous, one-liner functions for concise logic.
-
-### ✅ Built-in Functions and Pythonic Syntax
-- Extensive use of functions like `len()`, `range()`, `type()`, `input()`, `enumerate()`, `zip()`, and more.
-- Writing idiomatic and efficient Python code using list comprehensions and generator expressions.
-
-### ✅ Problem Solving and Algorithmic Thinking
-- Applying Python syntax to solve practical problems and quizzes.
-- Structuring logic in a readable, scalable, and testable way.
-- Debugging and improving code quality iteratively.
+Every notebook represents a progressive step in developing not only my Python proficiency but also my computational thinking and real-world coding fluency. These notebooks form the foundation for future projects in data science, AI, automation, and beyond.
 
 ---
 
-## 🗂️ Folder & File Structure
+## 🧠 Topics Covered
 
-Each Jupyter notebook file (`.ipynb`) in this repository corresponds to a specific topic covered in the bootcamp, organized as follows:
+### ✅ Core Python Concepts
+- **Numbers, Strings, Lists, Tuples, Sets, Dictionaries**
+- **Booleans and Type Casting**
+- **Operators**: Arithmetic, assignment, comparison, logical
+- **Control Structures**: `if`, `elif`, `else`
+- **Loops**: `for`, `while`, and loop control statements (`break`, `continue`, `pass`)
+- **Functions**: Parameters, return values, scope, and lambda expressions
+- **Object-Oriented Programming**: Classes, attributes, methods, encapsulation
 
-📁 P01-PythonBootcampNotebooks
-├── 1-Numbers.ipynb
-├── 2-Variables.ipynb
-├── 3-Strings.ipynb
-├── 4-Lists.ipynb
-├── 5-Tuples.ipynb
-├── 6-Dictionaries.ipynb
-├── 7-Sets.ipynb
-├── 8-BooleanLogic.ipynb
-├── 9-TypeCasting.ipynb
-├── 10-IfControls.ipynb
-├── 11-Loops.ipynb
-├── 12-AdvancedBuiltinFunctions.ipynb
-├── 13-Quiz2.ipynb
-├── 14-Quiz2 Solutions.ipynb
-├── 15-Functions.ipynb
-├── 16-PracticalFunctions.ipynb
-├── 17-ClassesOOP.ipynb
+### ✅ Error Handling and File Operations
+- Try-Except blocks
+- Error types and debugging strategies
+- Reading and writing to files (text and structured)
 
+### ✅ Data Science Foundations
 
+#### 🧮 NumPy
+- 1D and 2D arrays with `ndarray`
+- Array operations and broadcasting
+- Indexing, slicing, and reshaping
+- Useful functions like `arange()`, `linspace()`, `zeros()`, and `random`
 
-Each notebook includes:
-- Concept explanations with code examples
-- Interactive code blocks with real-time output
-- Exercises and mini-quizzes to test understanding
+#### 📊 Pandas
+- `Series` and `DataFrame` structures
+- Reading and writing CSV/Excel files
+- Data selection: `loc[]` vs `iloc[]`
+- Filtering, sorting, and cleaning
+- Grouping, aggregating, and descriptive stats
+
+#### 📈 Matplotlib
+- Basic plotting: line, bar, histogram
+- Customization: labels, titles, colors
+- Intro to data visualization principles
+
+### 🧠 Advanced Topics
+- **Recursion**: Solving problems via self-referencing functions
+- **Type Annotations**: Writing more readable, robust Python code with type hints
 
 ---
 
-## 🔧 Technologies Used
+## 🗂️ File Structure
+
+The notebooks are organized numerically and chronologically to reflect learning progress:
+
+<pre> 📁 P01-PythonBootcampNotebooks ├── 1-Numbers.ipynb ├── 2-Strings.ipynb ├── 3-Lists.ipynb ├── 4-Dictionary.ipynb ├── 5-Sets.ipynb ├── 6-Tuples.ipynb ├── 7-Boolean.ipynb ├── 8-Quiz.ipynb ├── 9-Quiz Solutions.ipynb ├── 10-IfControls.ipynb ├── 11-Loops.ipynb ├── 12-AdvancedBuiltinFunctions.ipynb ├── 13-Quiz2.ipynb ├── 14-Quiz2 Solutions.ipynb ├── 15-Functions.ipynb ├── 16-PracticalFunctions.ipynb ├── 17-ClassesOOP.ipynb ├── 18-OOPExamples.ipynb ├── 19-Quiz3.ipynb ├── 20-Quiz3Solutions.ipynb ├── 21-HandlingErrors.ipynb ├── 22-Files.ipynb ├── 23-NumpyIntro.ipynb ├── 24-PandasIntro.ipynb ├── 25-DataFramePandas.ipynb ├── 26-DataFrameOperations.ipynb ├── 27-ExcelQuiz.ipynb ├── 28-ExcelQuiz Solutions.ipynb ├── 29-MatplotlibIntro.ipynb ├── 30-Recursion.ipynb ├── 31-TypeAnnotations.ipynb </pre>
+
+
+---
+
+## 🧰 Tools & Technologies
 
 - **Language**: Python 3.x
-- **Environment**: Jupyter Notebook
-- **Tools**: Anaconda, Pycharm, GitHub for version control
-- **Platform**: Windows
+- **Environment**: Jupyter Notebook (via Anaconda, Pycharm)
+- **Libraries Used**: NumPy, Pandas, Matplotlib
+- **Version Control**: Git + GitHub
+- **Platform**: Windows OS
 
 ---
 
-## 🎓 Source of the Bootcamp
 
-This notebook series is based on the Python section of the [100 Days of Artificial Intelligence Bootcamp](https://www.udemy.com/course/yapay-zeka-100-gunluk-kamp/) by **Atıl Samancıoğlu**, available on Udemy. The course provides a guided and structured approach to learning Python, AI, and related technologies.
+## 🎓 Based on a Udemy Bootcamp
+
+This notebook series is based on the **Python section** of the [100 Days of Artificial Intelligence Bootcamp](https://www.udemy.com/course/yapay-zeka-100-gunluk-kamp/) by [Atıl Samancıoğlu](https://www.udemy.com/user/atil-samancioglu/).
 
 
 
