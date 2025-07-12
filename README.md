@@ -51,7 +51,14 @@ Each Jupyter notebook file (`.ipynb`) in this repository corresponds to a specif
 
 📁 P01-PythonBootcampNotebooks
 ├── 1-Numbers.ipynb
-├── ...
+├── 2-Variables.ipynb
+├── 3-Strings.ipynb
+├── 4-Lists.ipynb
+├── 5-Tuples.ipynb
+├── 6-Dictionaries.ipynb
+├── 7-Sets.ipynb
+├── 8-BooleanLogic.ipynb
+├── 9-TypeCasting.ipynb
 ├── 10-IfControls.ipynb
 ├── 11-Loops.ipynb
 ├── 12-AdvancedBuiltinFunctions.ipynb
@@ -60,6 +67,7 @@ Each Jupyter notebook file (`.ipynb`) in this repository corresponds to a specif
 ├── 15-Functions.ipynb
 ├── 16-PracticalFunctions.ipynb
 ├── 17-ClassesOOP.ipynb
+
 
 
 Each notebook includes:
