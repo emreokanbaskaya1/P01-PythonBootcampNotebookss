@@ -59,7 +59,7 @@ The notebooks are organized numerically and chronologically to reflect learning 
 
 ## 🧰 Tools & Technologies
 
-- **Language**: Python 3.x
+- **Language**: Python 3.13
 - **Environment**: Jupyter Notebook (via Anaconda, Pycharm)
 - **Libraries Used**: NumPy, Pandas, Matplotlib
 - **Version Control**: Git + GitHub
