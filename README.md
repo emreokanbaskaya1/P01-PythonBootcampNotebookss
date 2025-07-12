@@ -49,3 +49,39 @@ All notebooks are structured to reinforce both theoretical knowledge and practic
 
 Each Jupyter notebook file (`.ipynb`) in this repository corresponds to a specific topic covered in the bootcamp, organized as follows:
 
+📁 P01-PythonBootcampNotebooks
+├── 1-Numbers.ipynb
+├── ...
+├── 10-IfControls.ipynb
+├── 11-Loops.ipynb
+├── 12-AdvancedBuiltinFunctions.ipynb
+├── 13-Quiz2.ipynb
+├── 14-Quiz2 Solutions.ipynb
+├── 15-Functions.ipynb
+├── 16-PracticalFunctions.ipynb
+├── 17-ClassesOOP.ipynb
+
+
+Each notebook includes:
+- Concept explanations with code examples
+- Interactive code blocks with real-time output
+- Exercises and mini-quizzes to test understanding
+
+---
+
+## 🔧 Technologies Used
+
+- **Language**: Python 3.x
+- **Environment**: Jupyter Notebook
+- **Tools**: Anaconda, Pycharm, GitHub for version control
+- **Platform**: Windows
+
+---
+
+## 🎓 Source of the Bootcamp
+
+This notebook series is based on the Python section of the [100 Days of Artificial Intelligence Bootcamp](https://www.udemy.com/course/yapay-zeka-100-gunluk-kamp/) by **Atıl Samancıoğlu**, available on Udemy. The course provides a guided and structured approach to learning Python, AI, and related technologies.
+
+
+
+
