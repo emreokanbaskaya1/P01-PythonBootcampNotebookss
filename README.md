@@ -21,6 +21,23 @@ This repository represents the first major phase of my Python learning journey. 
 ### ✅ Advanced Topics
 - Recursion (solving problems using self-referencing functions)
 - Type Annotations (adding type hints to improve code readability and reliability)
+- 
+### 🧰 Tools & Technologies
+Language: Python 3.13
+
+Environment: Jupyter Notebook (via PyCharm)
+
+Version Control: Git + GitHub
+
+Platform: Windows OS
+
+### 🎓 Based on a Udemy Bootcamp
+These notebooks are based on the Python section of the "100 Days of Artificial Intelligence Bootcamp" by Atıl Samancıoğlu.
+
+yaml
+Copy
+Edit
+
 
 ## 🗂️ File Structure
 
@@ -49,3 +66,4 @@ P01-PythonBootcampNotebooks/
 ├── 22-Files.ipynb
 ├── 30-Recursion.ipynb
 ├── 31-TypeAnnotations.ipynb
+
