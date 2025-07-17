@@ -34,10 +34,6 @@ Platform: Windows OS
 ### 🎓 Based on a Udemy Bootcamp
 These notebooks are based on the Python section of the "100 Days of Artificial Intelligence Bootcamp" by Atıl Samancıoğlu.
 
-yaml
-Copy
-Edit
-
 
 ## 🗂️ File Structure
 
