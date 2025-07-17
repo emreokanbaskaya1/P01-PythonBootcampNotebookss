@@ -21,7 +21,7 @@ This repository represents the first major phase of my Python learning journey. 
 ### ✅ Advanced Topics
 - Recursion (solving problems using self-referencing functions)
 - Type Annotations (adding type hints to improve code readability and reliability)
-- 
+
 ### 🧰 Tools & Technologies
 Language: Python 3.13
 
