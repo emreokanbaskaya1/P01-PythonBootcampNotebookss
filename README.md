@@ -1,4 +1,4 @@
-# 📘 P01 - Python Bootcamp Notebooks
+# 📘 P01 - Python Fundamentals 
 
 This repository represents the first major phase of my Python learning journey. It contains a collection of Jupyter Notebooks covering fundamental and intermediate-level Python topics. Each notebook is designed to help develop my skills in core programming, logic, and real-world coding practices.
 
