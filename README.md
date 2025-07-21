@@ -64,7 +64,6 @@ P01-PythonBootcampNotebooks/
 ├── 31-TypeAnnotations.ipynb
 
 📚 Kaynakça
-Bu projede yer alan çalışmalar, Atıl Samancıoğlu tarafından hazırlanan “Yapay Zeka: 100 Günlük Kamp” isimli Udemy kursu temel alınarak öğrenme amacıyla yapılmıştır.
-Tüm içerik, kurs süresince edinilen bilgiler doğrultusunda bireysel uygulama olarak hazırlanmıştır.
+Bu proje, [Atıl Samancıoğlu](https://www.udemy.com/user/atil-samancioglu/) tarafından hazırlanan eğitim içeriği temel alınarak bireysel öğrenme amacıyla oluşturulmuştur.
 
 👉 Kursa buradan ulaşabilirsiniz: [Yapay Zeka: 100 Günlük Kamp](https://www.udemy.com/course/yapay-zeka-100-gunluk-kamp/)
