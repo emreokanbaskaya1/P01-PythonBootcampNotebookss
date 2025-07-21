@@ -64,7 +64,8 @@ P01-PythonBootcampNotebooks/
 ├── 31-TypeAnnotations.ipynb
 ```
 
-## 📚 Kaynakça
-Bu proje, [Atıl Samancıoğlu](https://www.udemy.com/user/atil-samancioglu/) tarafından hazırlanan eğitim içeriği temel alınarak bireysel öğrenme amacıyla oluşturulmuştur.
+---
 
-## 👉 Kursa buradan ulaşabilirsiniz: [Yapay Zeka: 100 Günlük Kamp](https://www.udemy.com/course/yapay-zeka-100-gunluk-kamp/)
+## This project was created for **individual learning purposes** based on the course content from the **"Artificial Intelligence: 100-Day Bootcamp"** by Atıl Samancıoğlu.
+
+## 👉 You can access the course here: [Artificial Intelligence: 100-Day Bootcamp](https://www.udemy.com/course/yapay-zeka-100-gunluk-kamp/)
